@@ -2,6 +2,7 @@ build/
 managed_components/
 .cache/
 sdkconfig.old
+dependencies.lock
 
 CMakeCache.txt
 CMakeFiles/
